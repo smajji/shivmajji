@@ -17,7 +17,7 @@ module.exports = {
     twitter: '',
     medium: '@shiv.majji',
     facebook: '',
-    github: 'https://github.com/smajji',
+    github: 'smajji',
     linkedin: 'https://www.linkedin.com/in/shivkanth/',
     instagram: '',
   },
